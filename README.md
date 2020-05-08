@@ -65,5 +65,5 @@ The game will also have rooms to work through. Each room should either have some
 * Create a heal method that allows any medic to heal all members of the party.
 * Allow rooms to randomly assign an enemy to defeat or treasure to find once user enters the room.
 
-<img src="planning.png" width="1024">
+<img src="Planning.png" width="1024">
 
